@@ -1,6 +1,10 @@
 # 🚧 Obra sem Estress - Em Construção 🚧
 
-Este é um projeto de um dashboard para gerenciamento de obras e reformas, projetado para centralizar e simplificar o controle de custos, cronogramas e fornecedores.
+
+
+"Minha Obra Sem Stress" é uma plataforma web (SaaS - Software as a Service) desenvolvida para ser o painel de controle central para o cidadão comum que enfrenta o desafio de gerenciar uma reforma residencial. O projeto ataca diretamente a dor da desorganização, do estresse financeiro e da falta de visibilidade que caracterizam a maioria das obras.
+
+O propósito fundamental é substituir a frágil combinação de planilhas, cadernos e mensagens de WhatsApp por uma fonte única de verdade: um dashboard intuitivo onde o usuário pode planejar seu cronograma, controlar cada centavo gasto, centralizar documentos e, crucialmente, tomar decisões financeiras mais inteligentes. A plataforma foi concebida para transformar a ansiedade da obra em uma sensação de controle e clareza, entregando valor através de uma organização impecável.
 
 ## Status Atual
 
